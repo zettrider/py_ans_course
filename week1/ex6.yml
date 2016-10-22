@@ -1,0 +1,11 @@
+- Site 1
+- 3rd floor
+- ip_addr: 10.10.10.1
+  location: left of the middle
+  responsible: bofh
+  vpn: 'yes'
+- ip_addr: 10.10.11.1
+  location: up and away
+  responsible: packet wizard
+  vpn: nope
+- PBR

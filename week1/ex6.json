@@ -1,0 +1,1 @@
+["Site 1", "3rd floor", {"vpn": "yes", "responsible": "bofh", "ip_addr": "10.10.10.1", "location": "left of the middle"}, {"vpn": "nope", "responsible": "packet wizard", "ip_addr": "10.10.11.1", "location": "up and away"}, "PBR"]
